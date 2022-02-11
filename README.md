@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @katrodiyaarchil
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning B.Tech(IT)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me katrodiyaarchil@gmail.com
+- 🌱 I’m currently Pursuing B.Tech(IT)
+- 💞️ I’m looking to collaborate on ... Machine Learning and Backend development
+- 📫 Reach me at katrodiyaarchil@gmail.com
 
 <!---
 katrodiyaarchil/katrodiyaarchil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
