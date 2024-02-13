@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katrodiyaarchil
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently Pursuing B.Tech(IT)
-- 💞️ I’m looking to collaborate on ... Machine Learning and Backend development
+- 💞️ I’m looking to collaborate on ... Machine Learning, Deep Learning, DevOps and Backend Development
 - 📫 Reach me at katrodiyaarchil@gmail.com
 
 <!---
